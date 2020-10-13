@@ -1,5 +1,6 @@
 # C-foreach
-C foreach (type X in ARRAY) macro
+C foreach (type X in ARRAY) macro   
+Exaclty equals C# foreach.
 
     #include <stdlib.h>
     #include <stdio.h>
